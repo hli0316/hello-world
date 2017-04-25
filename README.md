@@ -1,3 +1,3 @@
 # hello-world
-Just a new repository
-Just a creation of new repository. 
+Just a new repository 
+New branch is good. 
